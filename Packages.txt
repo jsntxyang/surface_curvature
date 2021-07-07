@@ -1,2 +1,9 @@
 numpy
 matplotlib
+mpl_toolkits
+scipy
+skimage
+networkx
+math
+random
+trimesh
