@@ -5,5 +5,5 @@ This version contains an object called fermicurve. This object can read numpy .n
 frmsf file from quantum espresso is also accepted but the method is unstable(and the energy unit is wrong). 
 
 The crystal structure can only be fcc. Other unit cell methods will be available later.
-
-......
+![newplot (2)](https://user-images.githubusercontent.com/83987249/132000700-721c4558-0bab-4110-9a42-289f5f84e53b.png)
+Au fcc Fermi surface colored by the Gaussian curvature.
